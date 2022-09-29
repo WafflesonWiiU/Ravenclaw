@@ -1,4 +1,5 @@
 header {
+    background-color: rgba(#946B2D);
     color: rgba(#0E1A40);
 }
 p {
@@ -8,4 +9,9 @@ p {
 p {
     background-color: rgba(#5D5D5D);
     color: rgba(#946B2D);
+}
+
+img {
+    height: 50px;
+    width: 50px;
 }
