@@ -12,5 +12,6 @@ p {
 }
 
 img {
+    size-adjust: 50px;
     size: 50px;
 }
