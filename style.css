@@ -1,9 +1,11 @@
 header {
+    text-shadow: #946B2D;
     border-color: #000000;
     background-color: rgba(#946B2D);
     color: rgba(#0E1A40);
 }
 p {
+    float: right;
     border-color: #000000;
     background-color: rgba(#946B2D);
     color: rgba(#222F5B);
