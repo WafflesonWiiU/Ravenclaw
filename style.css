@@ -1,12 +1,15 @@
 header {
+    border-color: #000000;
     background-color: rgba(#946B2D);
     color: rgba(#0E1A40);
 }
 p {
+    border-color: #000000;
     background-color: rgba(#946B2D);
     color: rgba(#222F5B);
 }
 p {
+    border-color: #000000;
     background-color: rgba(#5D5D5D);
     color: rgba(#946B2D);
 }
