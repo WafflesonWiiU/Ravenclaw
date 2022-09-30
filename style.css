@@ -5,7 +5,7 @@ h1 {
     text-shadow: #946B2D;
     border-color: #000000;
     background-color: rgba(#946B2D);
-    color: rgba(#0E1A40);
+    color:#5D5D5D;
 }
 p {
     float: right;
@@ -30,4 +30,7 @@ p {
 .Ravenclaw{
     width: 30px;
     height: 40px;
+}
+header{
+    background-color:#222F5B;
 }
