@@ -28,9 +28,6 @@ p {
 }
 
 .Ravenclaw{
-    width: 300px;
-    height: 400px;
-    border: 25px;
-    border-color: #222F5B;
-    border-style: groove;
+    width: 30px;
+    height: 40px;
 }
