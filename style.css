@@ -28,8 +28,9 @@ p {
 }
 
 .Ravenclaw{
-    width: 30px;
-    height: 40px;
+    float: left;
+    width: 90px;
+    height: 100px;
 }
 header{
     background-color:#222F5B;
