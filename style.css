@@ -1,7 +1,6 @@
 body {
     background-color:(#5D5D5D);
 }
-
 h1 {
     text-shadow: #946B2D;
     border-color: #000000;
@@ -24,6 +23,10 @@ p {
     width: 300px;
     height: 400px;
     border: 25px;
-    border-color: #5D5D5D;
+    border-color: #956B2D;
     border-style: groove;
+}
+
+.Ravenclaw {
+    
 }
