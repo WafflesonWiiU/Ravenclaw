@@ -41,12 +41,21 @@ header{
 }
 
 .Rowena {
+    width: 300px;
+    height:400px;
     border-style: groove;
+<<<<<<< HEAD
     
+=======
+    border-color: #222F5B;
+    border: 25px;
+>>>>>>> 921ba50eff7fed97ba6f9db3a1f1452341d2c5eb
 }
 
 .Myrtle {
     border-style: groove;
+    border-color: #5D5D5D;
+    border: 25px;
     width: 300px;
     height: 400px;
 }
