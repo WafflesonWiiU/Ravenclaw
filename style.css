@@ -38,6 +38,8 @@ header{
 }
 
 .Rowena {
+    width: 300px;
+    height:400px;
     border-style: groove;
     border-color: #222F5B;
     border: 25px;
