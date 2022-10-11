@@ -39,10 +39,14 @@ header{
 
 .Rowena {
     border-style: groove;
+    border-color: #222F5B;
+    border: 25px;
 }
 
 .Myrtle {
     border-style: groove;
+    border-color: #5D5D5D;
+    border: 25px;
     width: 300px;
     height: 400px;
 }
