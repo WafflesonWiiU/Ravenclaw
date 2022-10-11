@@ -7,13 +7,16 @@ h1 {
     background-color: rgba(#946B2D);
     color: #946B2D;
 }
+h3{
+
+}
 p {
     float: right;
     border-color: #000000;
     background-color: rgba(#946B2D);
     color: rgba(#222F5B);
 }
-.spell-1 {
+.Sectumsempra {
     border-color: #000000;
     background-color: rgba(#5D5D5D);
     color: rgba(#946B2D);
@@ -39,6 +42,7 @@ header{
 
 .Rowena {
     border-style: groove;
+    
 }
 
 .Myrtle {
