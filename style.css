@@ -40,3 +40,9 @@ header{
 .Rowena {
     border-style: groove;
 }
+
+.Myrtle {
+    border-style: groove;
+    width: 300px;
+    height: 400px;
+}
