@@ -1,23 +1,27 @@
-body {
+ body {
     background-color:#5D5D5D;
 }
+
 h1 {
     text-shadow: #946B2D;
     border-color: #000000;
     background-color: rgba(#946B2D);
     color: #946B2D;
 }
+
 h3{
 font-weight: bold;
 position: relative;
 }
+
 p {
     float: right;
     border-color: #000000;
     background-color: rgba(#946B2D);
     color: rgba(#222F5B);
 }
-.Sectumsempra {
+
+li.Sectumsempra {
     border-color: #000000;
     background-color: rgba(#5D5D5D);
     color: rgba(#946B2D);
@@ -65,4 +69,4 @@ header{
     display:flex;
 flex-direction: row;
 align-items: flex-end;
-}
+} 
