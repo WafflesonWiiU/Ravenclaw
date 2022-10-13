@@ -20,12 +20,12 @@ font-weight: bold;
 position: relative;
 }
 
-p {
+/* p {
     float: right;
     border-color: #000000;
     background-color:#946B2D;
     color: #222F5B;
-}
+} */
 
 li.Sectumsempra {
     border-color: #000000;
@@ -39,7 +39,7 @@ li.Sectumsempra {
     border: 25px;
     border-color: #956B2D;
     border-style: groove;
-    margin-left: 50px;
+
 }
  
 .Ravenclaw{
@@ -58,9 +58,8 @@ header{
     border-width: 25px;
     width: 300px;
     height: 200px;
-    margin-left: 50px;
-    margin-right:50px;
-    margin-top: 100px;
+
+   
 }
  
 .Myrtle {
@@ -73,10 +72,10 @@ header{
  
 .flex-container{
     display:flex;
-flex-direction: row;
-align-items: flex-end;
-<<<<<<< HEAD
+flex-direction: column;
+align-items: flex-start;
 } 
-=======
-} 
->>>>>>> 668f64bf3f00c1420b0597d21ae153a936723f03
+
+.nav {
+    background-color: #222F5B;
+}
