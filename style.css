@@ -75,8 +75,28 @@ header{
     display:flex;
 flex-direction: row;
 align-items: flex-end;
-<<<<<<< HEAD
 } 
-=======
-} 
->>>>>>> 668f64bf3f00c1420b0597d21ae153a936723f03
+
+li.Oppugno {
+    border-color: #000000;
+    background-color: #5D5D5D;
+    color: #946B2D;
+}
+
+li.Desisto {
+    border-color: #000000;
+    background-color: #5D5D5D;
+    color: #946B2D;
+}
+
+li.Reducto {
+    border-color: #000000;
+    background-color: #5D5D5D;
+    color: #946B2D;
+}
+
+li.Peirtotum {
+    border-color: #000000;
+    background-color: #5D5D5D;
+    color: #946B2D;
+}
