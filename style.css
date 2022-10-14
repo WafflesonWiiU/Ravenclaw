@@ -75,3 +75,24 @@ header{
 flex-direction: row;
 align-items: flex-end;
 } 
+
+li.Oppugno {
+    border-color: #000000;
+    background-color: #5D5D5D;
+    color: #946B2D;
+}
+li.desisto {
+    border-color: #000000;
+    background-color: #5D5D5D;
+    color: #946B2D;
+}
+li.Reducto {
+    border-color: #000000;
+    background-color: #5D5D5D;
+    color: #946B2D;
+}
+li.Piertotum {
+    border-color: #000000;
+    background-color: #5D5D5D;
+    color: #946B2D;
+}
